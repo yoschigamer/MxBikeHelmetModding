@@ -45,7 +45,6 @@ La ligne name permet de modifier le nom de votre mod en jeu.
  ┣ 📄 helmet_s.edf
  ┗ 📄 votre Model 3d
 </code>
-
 ```
 📁 Export // < Empty : Plain Axes >
  ┣ 📄 export.ini <- Export Config File
