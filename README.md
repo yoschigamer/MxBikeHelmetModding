@@ -1,6 +1,6 @@
 
 # MxBikeHelmetModding
-Make a Modded helmet in mxBike
+Faire un mod pour mx bike ***⚠️ Attention les noms des fichiers sont TRES IMPORTANT ⚠️***
 
 # Ressources
 
