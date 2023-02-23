@@ -1,0 +1,6 @@
+
+level0
+{
+	scene = helmet.edf
+	switch = 0
+}
