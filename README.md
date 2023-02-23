@@ -11,7 +11,7 @@ You can find all Tool here : https://www.mx-bikes.com/?page=downloads
 
 
 ```
-La ligne name permet de modifier le nom de votre mod en jeu.
+La ligne name du fichier <YourMask.ini> permet de modifier le nom de votre mod en jeu.
 ⚠️ n'oubliez pas de la changer ⚠️
 
 📁 FolderOfYourMod // < Empty : Plain Axes >
@@ -24,7 +24,7 @@ La ligne name permet de modifier le nom de votre mod en jeu.
  ┣ 📄 helmet.hrc <- parametre du LOD.
  ┗ 📄 helmet_s.edf <- paramètre des ombres.
  
-📁 Export // < Empty : Plain Axes >
+📁 Export
  ┣ 📄 export.ini <- Export Config File
  ┗ 📄 model.fbx
 ```
