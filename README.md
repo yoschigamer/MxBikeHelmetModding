@@ -25,11 +25,11 @@ La ligne name permet de modifier le nom de votre mod en jeu.
  ┣ 📄 YourMask.ini <- set le nom de votre mod.
  ┣ 📄 gfx.cfg
  ┣ 📄 helmet.edf <- votre model après conversion de fbx en edf
- ┣ 📄 helmet.fbx
+ ┣ 📄 helmet.fbx 
  ┣ 📄 helmet.hrc <- permet de gérer les parametre de LOD [Exemple](###Code-helmet.hrc)
  ┣ 📄 helmet_s.edf
  ┗ 📄 votre Model 3d
-
+ 
 ```
 📁 Export // < Empty : Plain Axes >
  ┣ 📄 export.ini <- Export Config File
@@ -53,3 +53,4 @@ level0
 	switch = 0 // valeur en mètre
 } // si on dépasse les 80 mètre charger la version C du casque
  ```
+ 
