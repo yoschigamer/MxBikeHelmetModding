@@ -56,3 +56,4 @@ split = 1
 rotation = -70 180 90 // laissé par défaut (Recommandé)
 helmet = *your path*\Export\helmet.edf // endroit ou votre fichier va ètre exporté
 ```
+Peut être pas les meilleur explication mais un de quoi vous guider suffisament je l'espère consulter la vidéo dans les ressources elle est très bien réalisé.z
